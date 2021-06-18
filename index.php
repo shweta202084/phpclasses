@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <div><h1>my name</h1></div>
     <?php
     echo "<h1>shweta singh</h1>";
     ?>
